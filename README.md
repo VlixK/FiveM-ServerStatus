@@ -3,5 +3,5 @@
 
 
 #### About
-  - Discord: [Kevi#2922](https://discordapp.com/users/312463940628119552)
+  - Discord: [KayTea](https://discordapp.com/users/312463940628119552)
   - [Source](https://github.com/Dexvoo/IN-ServerStatus) @ Dexvo
