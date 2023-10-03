@@ -1,3 +1,4 @@
+[![Static Badge](https://img.shields.io/badge/mustdownloadhere-download?label=download)](https://github.com/VlixK/FiveM-ServerStatus/releases/download/1.0.0/serverstatus-kay.zip)
 # FiveM Server Status
 ![image](https://github.com/VlixK/FiveM-ServerStatus/assets/81835599/8f58bc83-8c82-4496-bc2a-fca0925da13e)
 -------------------------------------------------------------------
