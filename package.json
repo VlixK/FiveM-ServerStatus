@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "@discordjs/rest": "^1.0.0",
+    "node-powershell": "^5.0.1",
+    "opn": "^6.0.0",
+    "puppeteer": "^20.6.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "name": "serverstatus",
+  "version": "1.0.3",
+  "main": "src/index.js",
+  "devDependencies": {
+    "cfx-api": "^1.1.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "commands": "node src/deploy-commands.js"
+  },
+  "keywords": [],
+  "author": "Dexvo | https://github.com/Dexvoo",
+  "license": "ISC",
+  "description": ""
+}
