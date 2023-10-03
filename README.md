@@ -4,7 +4,8 @@
 -------------------------------------------------------------------
 ![Screenshot 2023-10-03 190706](https://github.com/VlixK/FiveM-ServerStatus/assets/81835599/a7e4891d-0a1c-44a7-9760-81026e124a44)
 -------------------------------------------------------------------
-![Screenshot 2023-10-03 190550](https://github.com/VlixK/FiveM-ServerStatus/assets/81835599/e4857164-9a2e-4e46-9880-e90fd060e276)
+![Screenshot 2023-10-03 190550](https://github.com/VlixK/FiveM-ServerStatus/assets/81835599/0392e9e5-e9f6-4d46-9f6a-e1210ab19b86)
+
 
 
 #### About
