@@ -11,3 +11,7 @@
 #### About
   - Discord: [KayTea](https://discordapp.com/users/312463940628119552)
   - [Source](https://github.com/Dexvoo/IN-ServerStatus) @ Dexvo
+
+#### License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VlixK/FiveM-ServerStatus/blob/main/LICENSE) for details.
